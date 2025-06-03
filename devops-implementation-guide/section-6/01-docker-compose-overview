@@ -38,4 +38,4 @@
 - **Networks** enable communication between containers.  
 - **Volumes** store data that persists beyond container restarts.  
 
-With Docker Compose, you can **easily manage multi-container applications**! 🚀  
+

@@ -1,5 +1,5 @@
-## **My Journey: Mastering Real-World DevOps with a Multi-Microservice E-Commerce Project**  
-![alt text](download.jpg)
+## **Real-World DevOps with a Multi-Microservice E-Commerce Project**  
+
 
 Through this hands-on project, I gained invaluable practical experience in real-time DevOps implementation using a highly popular **E-Commerce demo project** open-sourced by **OpenTelemetry**. I discovered that this project is widely recognized as one of the best real-world applications for learning DevOps, and I personally found it offered the most practical insights I could have asked for.  
 

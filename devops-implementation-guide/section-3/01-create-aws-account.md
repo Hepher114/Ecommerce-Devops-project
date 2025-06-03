@@ -72,4 +72,3 @@ Creating an AWS account is the first step toward learning cloud computing. This 
 - Learn about **IAM roles and policies** for access control
 - Start with free-tier AWS services like **EC2, S3, Lambda**
 
-By following this guide, you can successfully create your AWS account and avoid common pitfalls. Happy learning! 🚀
