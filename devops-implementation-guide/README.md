@@ -1,4 +1,3 @@
-# **Real-Time E-Commerce Microservices with DevOps Implementation**
 
 ## **Project Overview**
 This project demonstrates **end-to-end implementation** of a cloud-native, microservices-based e-commerce application using:
